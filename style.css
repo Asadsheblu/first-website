@@ -1,0 +1,35 @@
+.main-menu{
+    background-color: gainsboro;
+}
+.menu{
+    display: inline;
+    padding: 0px 30% 40px 40%;
+    color: floralwhite;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+  
+}
+h1{
+    font-style: italic;
+    color: lightsalmon;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: dotted;
+}
+.blog-img1{
+    padding-left: 30%;
+}
+.pass-1{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border: 15px dotted rgb(129, 129, 84);
+}
+.pass-2{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    border: 15px dashed rgb(0, 184, 113);
+}
